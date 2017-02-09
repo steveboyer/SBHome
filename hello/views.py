@@ -4,12 +4,12 @@ import requests
 from .models import Greeting
 
 # Create your views here.
-def index(request):    
-	r = requests.get('http://httpbin.org/status/418')
-	print r.text
-	return HttpResponse('Hello from Python!')
-    	#return render(request, 'index.html')
-	
+def index(request):
+    r = requests.get('http://httpbin.org/status/418')
+    print r.text
+    return render(request, 'index.html')
+
+#return HttpResponse('Hello from Pythonhhhhhh!')
 
 def db(request):
 
