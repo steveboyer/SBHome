@@ -7,9 +7,9 @@ from .models import Greeting
 def index(request):
     r = requests.get('http://httpbin.org/status/418')
     print r.text
-    return render(request, 'index.html')
+    return render(request, 'w3.html')
 
-#return HttpResponse('Hello from Pythonhhhhhh!')
+    #return HttpResponse('Hello from Pythonhhhhhh!')
 
 def db(request):
 
