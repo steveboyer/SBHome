@@ -1,0 +1,25 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-graduation-cap, .fa-server {
+    font-size: 150px
+}
+
+.grad-main {
+    background: -moz-linear-gradient(305deg, rgba(20, 9, 179, 1) 0%, rgba(19, 8, 168, 1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(20, 9, 179, 1)), color-stop(100%, rgba(19, 8, 168, 1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(305deg, rgba(20, 9, 179, 1) 0%, rgba(19, 8, 168, 1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(305deg, rgba(20, 9, 179, 1) 0%, rgba(19, 8, 168, 1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(305deg, rgba(20, 9, 179, 1) 0%, rgba(19, 8, 168, 1) 100%); /* ie10+ */
+    background: linear-gradient(145deg, rgba(20, 9, 179, 1) 0%, rgba(19, 8, 168, 1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#1409B3', endColorstr='#1308A8', GradientType=0); /* ie6-9 */
+}
+
+.grad-nav {
+    background: -moz-linear-gradient(305deg, rgba(17, 8, 150, 1) 0%, rgba(16, 7, 138, 1) 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgba(17, 8, 150, 1)), color-stop(100%, rgba(16, 7, 138, 1))); /* safari4+,chrome */
+    background: -webkit-linear-gradient(305deg, rgba(17, 8, 150, 1) 0%, rgba(16, 7, 138, 1) 100%); /* safari5.1+,chrome10+ */
+    background: -o-linear-gradient(305deg, rgba(17, 8, 150, 1) 0%, rgba(16, 7, 138, 1) 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(305deg, rgba(17, 8, 150, 1) 0%, rgba(16, 7, 138, 1) 100%); /* ie10+ */
+    background: linear-gradient(145deg, rgba(17, 8, 150, 1) 0%, rgba(16, 7, 138, 1) 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#110896', endColorstr='#10078A', GradientType=0); /* ie6-9 */
+}
