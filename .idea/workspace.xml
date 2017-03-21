@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c534c146-2925-4d50-a086-1eddc163e431" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stephenboyer/settings.py" afterPath="$PROJECT_DIR$/stephenboyer/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/home/static/menu.css" afterPath="$PROJECT_DIR$/home/static/menu.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,11 +54,11 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="menu.css" pinned="false" current-in-tab="false">
+              <file leaf-file-name="menu.css" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/home/static/menu.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="1920">
-                      <caret line="128" column="1" lean-forward="false" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
+                    <state relative-caret-position="105">
+                      <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
                       <folding />
                     </state>
                   </provider>
@@ -74,11 +74,11 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+              <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/stephenboyer/settings.py">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="10">
-                      <caret line="81" column="41" lean-forward="false" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+                    <state relative-caret-position="250">
+                      <caret line="97" column="6" lean-forward="true" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
                       <folding />
                     </state>
                   </provider>
@@ -247,7 +247,6 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/stephenboyer/wsgi.py" />
         <option value="$PROJECT_DIR$/home/templates/bar.html" />
-        <option value="$PROJECT_DIR$/home/static/menu.css" />
         <option value="$PROJECT_DIR$/home/templates/menu.html" />
         <option value="$PROJECT_DIR$/stephenboyer/urls.py" />
         <option value="$PROJECT_DIR$/home/templates/index.html" />
@@ -257,6 +256,7 @@
         <option value="$PROJECT_DIR$/home/templates/resume.html" />
         <option value="$PROJECT_DIR$/home/views.py" />
         <option value="$PROJECT_DIR$/stephenboyer/settings.py" />
+        <option value="$PROJECT_DIR$/home/static/menu.css" />
       </list>
     </option>
   </component>
@@ -387,6 +387,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-getting-started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-getting-started" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -982,12 +1000,12 @@
       <option name="presentableId" value="Default" />
       <updated>1486602826989</updated>
       <workItem from="1489948470869" duration="164000" />
-      <workItem from="1489948669990" duration="14591000" />
+      <workItem from="1489948669990" duration="14708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14755000" />
+    <option name="totallyTimeSpent" value="14872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1347,14 +1365,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/home/static/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1920">
-          <caret line="128" column="1" lean-forward="false" selection-start-line="128" selection-start-column="1" selection-end-line="128" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1439,8 +1449,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stephenboyer/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="81" column="41" lean-forward="false" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+        <state relative-caret-position="250">
+          <caret line="97" column="6" lean-forward="true" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/static/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding />
         </state>
       </provider>
