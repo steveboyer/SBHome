@@ -77,8 +77,8 @@
               <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/stephenboyer/settings.py">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="655">
-                      <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+                    <state relative-caret-position="10">
+                      <caret line="81" column="41" lean-forward="false" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
                       <folding />
                     </state>
                   </provider>
@@ -982,12 +982,12 @@
       <option name="presentableId" value="Default" />
       <updated>1486602826989</updated>
       <workItem from="1489948470869" duration="164000" />
-      <workItem from="1489948669990" duration="14259000" />
+      <workItem from="1489948669990" duration="14591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14423000" />
+    <option name="totallyTimeSpent" value="14755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1439,8 +1439,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stephenboyer/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="85" column="22" lean-forward="false" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        <state relative-caret-position="10">
+          <caret line="81" column="41" lean-forward="false" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
           <folding />
         </state>
       </provider>
