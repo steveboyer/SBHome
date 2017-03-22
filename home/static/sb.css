@@ -3,6 +3,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .fa-graduation-cap, .fa-server {
     font-size: 150px
 }
+.fa-github, .fa-linkedin {
+    font-size: 20px
+}
 
 .grad-main {
     background: #ff3019; /* Old browsers */

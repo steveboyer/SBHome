@@ -7,6 +7,8 @@ import home.views
 
 urlpatterns = [
     url(r'^$', home.views.index, name='index'),
+    url(r'^resume/', home.views.resume, name='resume'),
+    url(r'^robots\.txt', home.views.robots, name='robots'),
     url(r'^db', home.views.db, name='db'),
     url(r'^admin/', include(admin.site.urls)),
 ]
