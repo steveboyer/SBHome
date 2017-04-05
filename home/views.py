@@ -10,6 +10,9 @@ def index(request):
 def resume(request):
     return render(request, 'resume.html')
 
+def linkedin(request):
+    return render(request, 'https://www.linkedin.com/in/steve-boyer/')
+
 def robots(request):
     return render(request, 'robots.txt')
 
