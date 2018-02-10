@@ -1,4 +1,4 @@
-INACTIVE - Please see github.com/steveboyer/SBHome2
+INACTIVE - Please see www.github.com/steveboyer/SBHome2
 
 Personal homepage in Django/Python. Previously located at www.stephenboyer.com, running on Heroku.
 
